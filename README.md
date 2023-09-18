@@ -1,21 +1,30 @@
-<h1 align="center">Привет 👋, меня зовут Азат</h1>
-<h3 align="center">Frontend разработчик</h3>
+<h1 align="center">Hi 👋, I'm Azat</h1>
+<h3 align="center">Frontend developer</h3>
 
-<h3 align="left">Контакты</h3>
-<ul align="left">
-  <li>Телеграмм: <a href="https://t.me/AzatFa">@azatFa</a></li>
-  <li>Email: azat_fayzrahmanov@mail.ru</li>
-  <li>Резюме: <a href="https://fayzrakhmanov-azat.notion.site/fayzrakhmanov-azat/Front-end-12f405eb58864b858052c0aceb262a51">Notion</a></li>
-</ul>
+<h3 align="center">Contacts</h3>
+<div id="badges" align="center">
+	<a href="mailto:azat_fayzrahmanov@mail.ru">
+		<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+	</a>
+	<a href="https://t.me/AzatFa">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+	</a>
+	 <a href="https://fayzrakhmanov-azat.notion.site/fayzrakhmanov-azat/Front-end-12f405eb58864b858052c0aceb262a51">
+		<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+	</a>
+</div>
 
-<h3 align="left">Стек</h3>
-<p align="left">
+<h3 align="center">Stack</h3>
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react"
 			width="40"
 			height="40" />
+	</a>
+	<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 	</a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img
@@ -69,13 +78,12 @@
 			width="40"
 			height="40" />
 	</a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+	</a>
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankrait&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankrait"></img>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ankrait&show_icons=true&locale=en&theme=dark" alt="ankrait"></img>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankrait&theme=dark" alt="ankrait"></img>
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankrait&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankrait"></img>
+</p>
 
